@@ -13,6 +13,7 @@
 		8143EE2728D0506600B03CE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8143EE2528D0506600B03CE7 /* Main.storyboard */; };
 		8143EE2928D0506700B03CE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8143EE2828D0506700B03CE7 /* Assets.xcassets */; };
 		8143EE2C28D0506700B03CE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8143EE2A28D0506700B03CE7 /* LaunchScreen.storyboard */; };
+		8180BFF728D093B800601EA1 /* project.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8180BFF628D093B800601EA1 /* project.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8143EE2828D0506700B03CE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8143EE2B28D0506700B03CE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8143EE2D28D0506700B03CE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8180BFF628D093B800601EA1 /* project.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = project.mp3; path = ../../../../../../Downloads/project.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8143EE2828D0506700B03CE7 /* Assets.xcassets */,
 				8143EE2A28D0506700B03CE7 /* LaunchScreen.storyboard */,
 				8143EE2D28D0506700B03CE7 /* Info.plist */,
+				8180BFF628D093B800601EA1 /* project.mp3 */,
 			);
 			path = audioPlayer;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8180BFF728D093B800601EA1 /* project.mp3 in Resources */,
 				8143EE2C28D0506700B03CE7 /* LaunchScreen.storyboard in Resources */,
 				8143EE2928D0506700B03CE7 /* Assets.xcassets in Resources */,
 				8143EE2728D0506600B03CE7 /* Main.storyboard in Resources */,
